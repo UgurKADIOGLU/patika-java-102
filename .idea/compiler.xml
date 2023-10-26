@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="collection" />
+        <module name="fikstur" />
         <module name="maceraOyunu" />
         <module name="nested" />
         <module name="generic" />
