@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="collection" />
         <module name="fikstur" />
+        <module name="book" />
+        <module name="PatikaStore" />
+        <module name="collection" />
         <module name="maceraOyunu" />
         <module name="nested" />
         <module name="generic" />
-        <module name="book" />
       </profile>
     </annotationProcessing>
   </component>
